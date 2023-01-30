@@ -25,7 +25,7 @@ NPM install express
 To use this application, please install: NPM install express 
     
 ### Screenshots
-![This is screenshot for this application](./public/assets/images/webpage-screenshot.png)
+![This is screenshot for this application](./public/assets/images/screenshot.png)
 
 
 ## Built With
