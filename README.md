@@ -4,7 +4,7 @@
 ## Description
 This application allows you to add and delete notes. You can add notes by clicking the pencil icon at the top and then click the save icon once you have entered what you need.
             
-View the deployed page at [My-little-business-partner](dsd).
+View the deployed page at [My-little-business-partner](https://github.com/Donglee0415/My-little-business-partner).
 ## Contents
 * [Installation](#installation)
 * [Usage](#usage)
