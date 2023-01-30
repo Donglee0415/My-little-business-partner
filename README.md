@@ -8,12 +8,9 @@ View the deployed page at [My-little-business-partner](https://github.com/Dongle
 ## Contents
 * [Installation](#installation)
 * [Usage](#usage)
-   * [Screenshots](#screenshots)
+* [Screenshots](#screenshots)
 * [Built With](#built-with)
-* [License](#license)
-* [Contributing](#contributing)
 * [Questions](#questions)
-* [Credits](#credits)
 
 ## Installation
 To use this application, please install: 
